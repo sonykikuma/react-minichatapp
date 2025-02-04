@@ -210,5 +210,3 @@ function App() {
 }
 
 export default App;
-// google clientid= 508697934776-d6t2hu2sfrp2q4v431m77itvvcmiui10.apps.googleusercontent.com
-// google_secret= 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
